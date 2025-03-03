@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04C1B7-5A73-45F3-BD9A-B18AB06F6A8B}|GUI trial\\GUI trial.vcxproj|C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\GUI trial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B04C1B7-5A73-45F3-BD9A-B18AB06F6A8B}|GUI trial\\GUI trial.vcxproj|solutionrelative:GUI trial\\GUI trial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04C1B7-5A73-45F3-BD9A-B18AB06F6A8B}|GUI trial\\GUI trial.vcxproj|C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\CustomVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B04C1B7-5A73-45F3-BD9A-B18AB06F6A8B}|GUI trial\\GUI trial.vcxproj|solutionrelative:GUI trial\\CustomVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04C1B7-5A73-45F3-BD9A-B18AB06F6A8B}|GUI trial\\GUI trial.vcxproj|C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\AlgosHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B04C1B7-5A73-45F3-BD9A-B18AB06F6A8B}|GUI trial\\GUI trial.vcxproj|solutionrelative:GUI trial\\AlgosHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomVector.h",
+              "DocumentMoniker": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\CustomVector.h",
+              "RelativeDocumentMoniker": "GUI trial\\CustomVector.h",
+              "ToolTip": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\CustomVector.h",
+              "RelativeToolTip": "GUI trial\\CustomVector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-02T15:23:32.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlgosHeader.h",
+              "DocumentMoniker": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\AlgosHeader.h",
+              "RelativeDocumentMoniker": "GUI trial\\AlgosHeader.h",
+              "ToolTip": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\AlgosHeader.h",
+              "RelativeToolTip": "GUI trial\\AlgosHeader.h",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAQwA4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-02T15:23:32.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI trial.cpp",
+              "DocumentMoniker": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\GUI trial.cpp",
+              "RelativeDocumentMoniker": "GUI trial\\GUI trial.cpp",
+              "ToolTip": "C:\\Users\\sheha\\Downloads\\SortingVisualizer\\SortingVisualizer\\GUI trial\\GUI trial.cpp",
+              "RelativeToolTip": "GUI trial\\GUI trial.cpp",
+              "ViewState": "AgIAAJABAAAAAAAAAADwv5cBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T15:23:32.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
